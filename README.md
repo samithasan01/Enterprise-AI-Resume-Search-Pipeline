@@ -1,5 +1,3 @@
-# Enterprise-AI-Resume-Search-Pipeline
-
 # Enterprise AI Resume Search Pipeline (v2.0)
 ## Status: 🏗️ In Development (Started May 2026)
 
